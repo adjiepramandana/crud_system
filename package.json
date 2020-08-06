@@ -1,0 +1,25 @@
+{
+  "name": "simple-crud",
+  "version": "1.0.0",
+  "description": "Sistem Crud Simple",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adjiepramandana",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adjiepramandana/simple-crud.git"
+  },
+  "keywords": [
+    "crud",
+    "php",
+    "mysql",
+    "backend"
+  ],
+  "bugs": {
+    "url": "https://github.com/adjiepramandana/simple-crud/issues"
+  },
+  "homepage": "https://github.com/adjiepramandana/simple-crud#readme"
+}
