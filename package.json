@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adjiepramandana/simple-crud.git"
+    "url": "git+https://github.com/adjiepramandana/crud_system.git"
   },
   "keywords": [
     "crud",
@@ -19,7 +19,7 @@
     "backend"
   ],
   "bugs": {
-    "url": "https://github.com/adjiepramandana/simple-crud/issues"
+    "url": "https://github.com/adjiepramandana/crud_system/issues"
   },
-  "homepage": "https://github.com/adjiepramandana/simple-crud#readme"
+  "homepage": "https://github.com/adjiepramandana/crud_system#readme"
 }
